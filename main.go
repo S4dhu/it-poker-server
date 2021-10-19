@@ -4,7 +4,7 @@ import (
     "fmt"
     "net/http"
 
-    "github.com/S4dhu/it-poker/websocket"
+    "github.com/S4dhu/it-poker-server/websocket"
 )
 
 func serveWs(w http.ResponseWriter, r *http.Request) {

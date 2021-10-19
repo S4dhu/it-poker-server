@@ -1,4 +1,4 @@
-module github.com/S4dhu/it-poker
+module github.com/S4dhu/it-poker-server
 
 go 1.17
 
